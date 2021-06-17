@@ -1,4 +1,6 @@
-# Cyclistic-Case-Study
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Melbourne_City_Bikes.JPG/1280px-Melbourne_City_Bikes.JPG)
+
+# Cyclistic Case Study
 
 **Introduction:**
 
