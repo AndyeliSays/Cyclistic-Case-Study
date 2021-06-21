@@ -36,3 +36,7 @@ The results of this analysis will be used to design a new marketing strategy to 
 
 -   Data cleaning and preparation done in *R*. (too large for excel)
 -   Data visualizations made in *R* and *Tableau*.
+
+**Other Methods:**
+
+-   *SQL* used as alternative mehod for data cleaning, preparation and analysis.
