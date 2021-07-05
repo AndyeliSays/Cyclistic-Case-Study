@@ -39,4 +39,4 @@ The results of this analysis will be used to design a new marketing strategy to 
 
 **Other Methods:**
 
--   *SQL* used as alternative mehod for data cleaning, preparation and analysis.
+-   *SQL* used as alternative method for data cleaning, preparation and analysis.
