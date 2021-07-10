@@ -1,3 +1,5 @@
+SSMS 
+
 /* PREPARATION */
 
 -- Use sp_help (ALT + F1) to get an idea of monthly datasets April 2020 to March 2021 
